@@ -1,3 +1,9 @@
+## Sindhu's fork of Scrollback
+
+![](http://gifrific.com/wp-content/uploads/2012/11/Dachshund-Playing-With-Toy-Penguin.gif)
+
+This repo's master branch contains commits on top of existing [Scrollback](http://github.com/scrollback/scrollback) master. Some of these commits may not have made it upstream but __ideally__ this is how I would like Scrollback to be. Branches on this repo are a work-in-progress (wip) and may disappear after they have been accepted upstream.
+
 ## Scrollback, where communities hang out
 
 Scrollback provides a free-to-use service at [scrollback.io](http://scrollback.io). If you’re planning run a community chat room, you should [try it](https://scrollback.io/me) out now!
