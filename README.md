@@ -22,7 +22,7 @@ If you have or want custom server and/or client configuration, you can override 
 
 ## Contribute to Scrollback
 
-Want to hack on Scrollback? Awesome! We maintain a [wiki](https://github.com/scrollback/scrollback/wiki) that explains Scrollback architecture. It's a work-in-progress so please let us know if there are gaps in the content. Better yet, feel free to send us a Pull Request to make it better.
+Want to hack on Scrollback? Awesome! Our documentation is within `[docs/](https://github.com/scrollback/scrollback/tree/master/docs)` dir that explains Scrollback architecture. It's a work-in-progress so please let us know if there are gaps in the content. Better yet, feel free to send us a Pull Request to make it better.
 
 ## License
 
